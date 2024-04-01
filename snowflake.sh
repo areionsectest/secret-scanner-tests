@@ -1,0 +1,1 @@
+CONNECTION_URI="db:snowflake://root:c04pjhm2wc@aze4567.us-east-12.snowflakecomputing.com/thegift"

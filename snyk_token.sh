@@ -1,0 +1,1 @@
+url=https://snyk.io/api/v1/ Authorization: token c1427dab-3e2f-4439-8e73-26b3e5ce9f55

@@ -1,0 +1,4 @@
+headers = {
+    'x-ibm-client-id': '2a1c6a12-99e9-4c15-bc12-8c1c0ac73c90',
+    'x-ibm-client-secret': 'c50cC2rF0kW7eI7mK6bU7eC0yW7kV6dR3dK9sW0lT1fO5bM4j1',
+}
